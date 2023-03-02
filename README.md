@@ -1,5 +1,7 @@
 # Gemini-North-Flatten
 
+![](Gem Prev.jpg)
+
 A small program for assembline raw Gamini North data into a single fits file for programs like astrometrica or tycho-tracker.
 
 usage: fixgem.py 'dir' -prefix 'prefix'
