@@ -1,6 +1,6 @@
 # Gemini-North-Flatten
 
-![](Prev.JPG)
+![](prev.JPG)
 
 A small program for assembline raw Gamini North data into a single fits file for programs like astrometrica or tycho-tracker.
 
